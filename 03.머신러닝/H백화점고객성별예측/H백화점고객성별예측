@@ -1,0 +1,11 @@
+과제내용
+
+H백화점 고객의 성별을 예측하시오.
+데이터
+- 첨부한 학습데이터(train.csv)와 평가데이터(test.csv)를 이용하여 과제 수행
+- 두 화일의 gender 필드(class 변수)에서 '0'은 여자, '1'은 남자를 나타냄.
+
+
+- Titanic competition의 최우수 Kernel로 선정된 아래 두 Kernel 참고
+   https://www.kaggle.com/ash316/eda-to-prediction-dietanic
+   https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling

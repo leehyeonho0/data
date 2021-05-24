@@ -1,0 +1,19 @@
+bank 파일 변수 정의
+
+age  나이
+job  직종
+martial	결혼이력
+education  학력
+default  채무불이행 유무
+balance	연간 평균 잔고
+housing	주택 대출 유무
+loan  개인 대출 유무
+contact  연락수단
+day  마지막으로 접촉한 날짜
+month  마지막으로 접촉한 달
+duration  접촉한 시간
+campaign  이번 캠페인으로 접촉한 회수
+pdays  지난 번 캠페인에서 마지막으로 접촉한 후의 경과 시간
+previous  이번 캠페인 이전에 접촉한 회수
+poutcome  지난 번 캠페인의 성공 유무
+y  예금 신청 유무
